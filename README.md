@@ -6,6 +6,18 @@ Welcome to the **DA_2023_Project** repository! This repository contains the code
 
 The **DA_2023_Project** is a data analysis project that aims to analyze a specific dataset or problem using various data analysis techniques. The goal of this project is to gain insights, draw meaningful conclusions, and present the findings to the intended audience.
 
+The dataset consists of data collected from heavy Scania trucks in everyday usage. The system in
+focus is the Air Pressure system (APS) which generates pressurized air that is utilized in various
+functions in a truck, such as braking and gear changes. The datasets’ positive class consists of
+component failures for a specific component of the APS system. The negative class consists of trucks
+with failures for components not related to the APS. The data consists of a subset of all available
+data, selected by experts.
+
+The training set contains 60000 examples in total of which 59000 belong to the negative class
+and 1000 positive class. The test set contains 16000 examples. There are 171 attributes per record
+
+[Link to Dataset](https://archive.ics.uci.edu/dataset/421/aps+failure+at+scania+trucks)
+
 ## Table of Contents
 
 - [Installation](#installation)
