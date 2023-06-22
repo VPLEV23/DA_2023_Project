@@ -55,7 +55,7 @@ We welcome contributions to improve the DA_2023_Project repository. If you would
 ## Contact
   Name: [Vlad Bulhakov](#)
 
-    GitHub: @your-github-username
+    GitHub: @VPLEV23
     Email: vladyslav.bulhakov@student.univaq.it
 
   Name: [Danylo Savchak](#)
