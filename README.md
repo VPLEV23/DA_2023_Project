@@ -24,7 +24,7 @@ and 1000 positive class. The test set contains 16000 examples. There are 171 att
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Conatct](#contact)
+- [Contact](#contact)
 
 ## Installation
 
